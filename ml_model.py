@@ -12,3 +12,4 @@ def model3():
 
 
 
+print('Model 2 is performing the best')
